@@ -1,0 +1,15 @@
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\Home_Work6.csproj.AssemblyReference.cache
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\Home_Work6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\Home_Work6.AssemblyInfoInputs.cache
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\Home_Work6.AssemblyInfo.cs
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\Home_Work6.csproj.CoreCompileInputs.cache
+D:\Учеба GreekBrains\Home_Work\Home_Work6\bin\Debug\net7.0\Home_Work6.exe
+D:\Учеба GreekBrains\Home_Work\Home_Work6\bin\Debug\net7.0\Home_Work6.deps.json
+D:\Учеба GreekBrains\Home_Work\Home_Work6\bin\Debug\net7.0\Home_Work6.runtimeconfig.json
+D:\Учеба GreekBrains\Home_Work\Home_Work6\bin\Debug\net7.0\Home_Work6.dll
+D:\Учеба GreekBrains\Home_Work\Home_Work6\bin\Debug\net7.0\Home_Work6.pdb
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\Home_Work6.dll
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\refint\Home_Work6.dll
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\Home_Work6.pdb
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\Home_Work6.genruntimeconfig.cache
+D:\Учеба GreekBrains\Home_Work\Home_Work6\obj\Debug\net7.0\ref\Home_Work6.dll
